@@ -4,7 +4,7 @@ import whisper
 
 
 
-TOKEN = 'MTA4MzEwNzE4ODc4MTg4NzUxOA.GRNnv0.lhbQ10Qp1QRj8YBKjoG5B25M2PsKJQ4NshFMPY'
+TOKEN = 'Token'
 intents = discord.Intents.default()
 intents.message_content = True
 
